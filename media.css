@@ -1,0 +1,217 @@
+@media screen and (max-width: 1393px) {
+    .container {
+        max-width: 970px;
+    }
+
+    .a_card,
+    .a_card img,
+    .a_info {
+        max-width: 288px;
+    }
+
+    .main_left img {
+        margin-left: -90px;
+    }
+
+    .m_tit,
+    .span,
+    .m_p,
+    .group1 {
+        margin-left: -50px;
+    }
+
+    .main_right img {
+        width: 596px;
+    }
+
+    .inbtn {
+        width: 150px;
+        margin-left: -8px;
+    }
+
+    .media_p {
+        margin-left: -56px;
+        width: 190px;
+    }
+
+    .logoipsum {
+        margin-right: -200px;
+    }
+
+    .w_txt {
+        max-width: 210px;
+    }
+
+    .works_card {
+        margin-left: -12px;
+    }
+
+    .m_tit {
+        width: 470px;
+        font-style: 53px;
+        line-height: 56px;
+    }
+
+    .h_right img {
+        width: 564px;
+        margin-right: -124px;
+    }
+
+    .l_card {
+        width: 299px;
+    }
+
+    .fast_left img {
+        margin-left: -107px;
+    }
+
+    .fast_right {
+        width: 443px;
+    }
+
+    .fast_tit {
+        font-size: 45px;
+    }
+
+    .fast .m_p,
+    .span {
+        margin-left: 0;
+    }
+
+    .fast_card {
+        width: 107px;
+        margin-right: 153px;
+        margin-left: -39px;
+    }
+
+    .f_txt {
+        width: 213px;
+    }
+}
+
+@media screen and (max-width: 1230px) {
+    .container {
+        max-width: 980px;
+    }
+    
+    .header {
+        margin-left: 141px;
+    }
+    footer {
+        width: 1200px;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    .fast_left img {
+        width: 580px;
+        margin-left: -73px;
+    }
+    .main_right{
+        width: 431px;
+    }
+    header{
+        margin-left: 170px;
+    }
+}
+@media screen and (max-width: 1114px) {
+    header{
+        width: 1000px;
+    }
+
+}
+@media screen and (max-width: 1092px) {
+    .main_left img{
+        margin-left: 12px;
+    }
+    .m_tit{
+        margin-left: 12px;
+        width: 360px;
+    }
+    .m_p{
+        margin-left: 12px;
+        width: 390px;
+    }
+    .main .group1{
+        margin-left: 12px;
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .fast_center{
+        margin-left: 89px;
+    }
+    .fast_left img{
+        width: 491px;
+    }
+    
+}
+@media screen and (max-width: 984px) {
+    .container {
+        max-width: 900px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .container {
+        max-width: 420px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .container {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+   
+    .container {
+        max-width: 100%; 
+    }
+}
+
+@media screen and (max-width: 900px) {
+   
+    .fast_left img {
+        width: 100%; 
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .container {
+        max-width: 100%; 
+    }
+    .fast_card {
+        width: 100%; 
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .container {
+        max-width: 100%; 
+    }
+    .main_left img {
+        display: none; 
+    }
+    .main_right img {
+        width: 100%; 
+    }
+    .fast_right {
+        width: 100%;
+    }
+    .fast_tit {
+        font-size: 24px;
+    }
+    .fast_card {
+        width: 100%; 
+        margin-right: 0; 
+        margin-left: 0;
+    }
+    .f_txt {
+        width: 100%;
+    }
+}
